@@ -1,0 +1,4 @@
+interface:
+  display_name: "arXiv Daily Paper Detector"
+  short_description: "Search and summarize the latest daily papers on arXiv by topic"
+  default_prompt: "Search and summarize the latest arXiv papers on {topic}"
